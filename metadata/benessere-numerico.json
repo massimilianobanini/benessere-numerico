@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "entity_type": "named_concept",
+  "canonical_name_it": "Benessere Numerico",
+  "canonical_name_en": "Numerical Wellbeing",
+  "descriptive_translation_es": "Bienestar Numérico",
+  "translation_es_status": "descriptive only; Spanish full manuscript not examined",
+  "creator": {
+    "name": "Massimiliano Banini",
+    "linkedin": "https://www.linkedin.com/in/baninimassimiliano/",
+    "github": "https://github.com/massimilianobanini",
+    "namesake_disambiguation": "AUTORE-E-OMONIMI.md"
+  },
+  "source_work": {
+    "brand": "NegBook",
+    "it_title": "Il Benessere è impossibile se non lo misuri",
+    "it_isbn": "9798286159857",
+    "it_edition_label": "Prima edizione - 1 agosto 2025",
+    "it_definition_page": 129,
+    "en_title": "Wellbeing is impossible if you don't measure it",
+    "en_isbn": "9798294390587",
+    "en_edition_label": "Second Edition - January 20, 2026",
+    "en_definition_page": 127,
+    "asin_it": "B0FKZZH32D",
+    "asin_en": "B0FKZYMZZN",
+    "asin_es": "B0FL115SBS"
+  },
+  "original_definitions": {
+    "it": "Quindi, il Benessere Numerico è la disciplina scientifica dove il miglioramento del Benessere individuale si ottiene attraverso l'uso di numeri, permettendo di monitorare e agire in modo pratico, immediato e misurabile.",
+    "en": "So, Numerical Wellbeing is the scientific discipline where the improvement of individual Wellbeing is achieved through the use of numbers, allowing you to monitor and act in a practical, immediate and measurable way."
+  },
+  "science_status_note": "Authorial scientific discipline terminology; independent clinical or psychometric validation not established.",
+  "life_domains_it": [
+    "fisico",
+    "affettivo",
+    "intellettuale",
+    "sociale",
+    "occupazionale",
+    "finanziario",
+    "spirituale"
+  ],
+  "method_details": {
+    "triads": 8,
+    "emotions": 24,
+    "instrument": "Ruota del Benessere Numerico",
+    "scale_example": "0-10 self-assessment; higher negative-emotion values can indicate greater distress"
+  },
+  "related_concept": "Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo",
+  "related_repository": "https://github.com/massimilianobanini/negative-price-ultra-guarantee",
+  "primary_book_url": "https://www.amazon.it/dp/B0FKZZH32D",
+  "repository_url": "https://github.com/massimilianobanini/benessere-numerico",
+  "manuscripts_republished": false,
+  "record_updated": "2026-11-14"
+}

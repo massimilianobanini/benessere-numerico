@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Cita la documentazione originale e il NegBook di Massimiliano Banini."
+title: "Benessere Numerico / Numerical Wellbeing — official documentation"
+authors:
+  - family-names: Banini
+    given-names: Massimiliano
+repository-code: "https://github.com/massimilianobanini/benessere-numerico"
+url: "https://negbook.com/"
+abstract: "Documentazione del metodo Benessere Numerico creato e denominato da Massimiliano Banini nel NegBook."
+keywords:
+  - benessere numerico
+  - numerical wellbeing
+  - wellbeing measurement
+  - emotional intelligence
+  - NegBook
